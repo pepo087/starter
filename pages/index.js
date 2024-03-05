@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+         <iframe style="background: #FFFFFF;border: none;border-radius: 2px;box-shadow: 0 2px 10px 0 rgba(70, 76, 79, .2);" width="640" height="480" src="https://charts.mongodb.com/charts-project-0-oecfb/embed/charts?id=65e203af-0286-44f7-8a51-145838d646a6&maxDataAge=3600&theme=light&autoRefresh=true"></iframe>
         </p>
       </main>
 
